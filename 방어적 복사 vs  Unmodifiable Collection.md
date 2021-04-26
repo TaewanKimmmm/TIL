@@ -66,7 +66,7 @@ public class Application {
 
 결과는 다음과 같다.
 
-![image](https://user-images.githubusercontent.com/50273712/116027811-c83eea80-a690-11eb-9e0e-6c8883097df2.png)
+![image](https://user-images.githubusercontent.com/50273712/116042466-68087280-a6a9-11eb-9401-0942fb0c9843.png)
 
 ![image](https://user-images.githubusercontent.com/50273712/116027820-ce34cb80-a690-11eb-9d63-c0412d001923.png)
 
@@ -115,7 +115,7 @@ public class Application {
 
 ```new ArrayList<>()```를 이용해 원본과의 주소 공유를 끊어냈기 때문이다.
 
-![image](https://user-images.githubusercontent.com/50273712/116027869-e9074000-a690-11eb-8245-19018a048627.png)
+![image](https://user-images.githubusercontent.com/50273712/116042591-89695e80-a6a9-11eb-8da3-cae896b32b43.png)
 
 ![image](https://user-images.githubusercontent.com/50273712/116027871-e99fd680-a690-11eb-8ad2-e2fbdc91615b.png)
 
@@ -206,24 +206,3 @@ public class Names {
     }
 }
 ```
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
