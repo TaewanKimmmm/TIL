@@ -66,10 +66,9 @@ public class Application {
 
 결과는 다음과 같다.
 
-![image-20210425175241710](C:\Users\김태완\AppData\Roaming\Typora\typora-user-images\image-20210425175241710.png)
+![image](https://user-images.githubusercontent.com/50273712/116027811-c83eea80-a690-11eb-9e0e-6c8883097df2.png)
 
-![image-20210425175250449](C:\Users\김태완\AppData\Roaming\Typora\typora-user-images\image-20210425175250449.png)
-
+![image](https://user-images.githubusercontent.com/50273712/116027820-ce34cb80-a690-11eb-9d63-c0412d001923.png)
 
 
 ```crewNames```의 ```names```는 객체가 생성된 이후에도 외부의 값 변경에 따라 같이 변하고 있다.
@@ -116,9 +115,9 @@ public class Application {
 
 ```new ArrayList<>()```를 이용해 원본과의 주소 공유를 끊어냈기 때문이다.
 
-![image-20210425175822937](C:\Users\김태완\AppData\Roaming\Typora\typora-user-images\image-20210425175822937.png)
+![image](https://user-images.githubusercontent.com/50273712/116027869-e9074000-a690-11eb-8245-19018a048627.png)
 
-![image-20210425175832308](C:\Users\김태완\AppData\Roaming\Typora\typora-user-images\image-20210425175832308.png)
+![image](https://user-images.githubusercontent.com/50273712/116027871-e99fd680-a690-11eb-8ad2-e2fbdc91615b.png)
 
 # 방어적 복사는 깊은 복사일까?
 
@@ -153,7 +152,7 @@ public class Application {
 
 ```
 
-![image-20210426021610818](C:\Users\김태완\AppData\Roaming\Typora\typora-user-images\image-20210426021610818.png)
+![image](https://user-images.githubusercontent.com/50273712/116027872-ea386d00-a690-11eb-96c6-e78f3b6b6f78.png)
 
 # 방어적 복사와 Unmodifiable Collection 각각을 언제 어떻게 사용해야 할까?
 
