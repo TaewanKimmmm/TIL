@@ -18,6 +18,5 @@ readOnly 속성의 default 값이 false이기 때문이다.
 
 따라서 클래스 레벨에서 @Transactional(readOnly = "true")를, 변경을 일으키는 메서드 레벨에서는 @Transactional을 사용하였다.
 
-
 # Reference
 https://goddaehee.tistory.com/167
